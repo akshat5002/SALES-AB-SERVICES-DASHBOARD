@@ -26,6 +26,6 @@ Brand Market Strategy: Evaluate the performance of brands with lower sales perce
 This structured summary provides a clear overview of the dashboard's key insights and potential areas for further exploration and strategy development.
 
 ##resporart and data frame and structure:
-dataset: 
+dataset: https://github.com/akshat5002/SALES-AB-SERVICES-DASHBOARD/blob/main/Complete_Techno_Sales_Data-2.xlsx
 image:  https://github.com/akshat5002/SALES-AB-SERVICES-DASHBOARD/blob/main/Screenshot%202025-03-27%20155012.png
 dashboard: 
