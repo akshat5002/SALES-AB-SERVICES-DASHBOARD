@@ -28,4 +28,4 @@ This structured summary provides a clear overview of the dashboard's key insight
 ##resporart and data frame and structure:
 dataset: https://github.com/akshat5002/SALES-AB-SERVICES-DASHBOARD/blob/main/Complete_Techno_Sales_Data-2.xlsx
 image:  https://github.com/akshat5002/SALES-AB-SERVICES-DASHBOARD/blob/main/Screenshot%202025-03-27%20155012.png
-dashboard: 
+dashboard: https://github.com/akshat5002/SALES-AB-SERVICES-DASHBOARD/blob/main/SALES%20DASHBOARD%20OF%20ABC%20SERVICES.pbix
